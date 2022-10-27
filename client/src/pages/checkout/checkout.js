@@ -127,7 +127,7 @@ const Checkout = () => {
 
             <div className={styles['total']}>
                 <div className={styles["total-text"]}>Total Price:</div>
-                <div className={styles['total-amount']}>{cart.total} EGP</div>
+                <div className={styles['total-amount']}>{cart.total} Rs</div>
             </div>
 
             <div className={styles['total-wrapper']}>
